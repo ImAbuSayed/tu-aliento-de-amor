@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tu aliento de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-de-amor/) |
+| **Get License** | [Request Licensing for Tu aliento de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4187)
 
 ---
 
