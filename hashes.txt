@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu aliento de amor
+
+This log tracks the cryptographic history and versioning for the song **Tu aliento de amor** (tu-aliento-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T14:42:52.938337 | `v1` | `c5cbd2cedd521761cb40595402ce577a1c5fa1799ff5d3b37612f2c8f5a8afcb` | `0597ab73cbcb46bc73b6e25f33f6fbfa236ed6d12fe9e3bf0d25fc4c84c03598` | `2026-06-23_tu-aliento-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
