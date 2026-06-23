@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tu aliento de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-de-amor/) |
+| **Get License** | [Get a Licensing Quote for Tu aliento de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu aliento de amor, mami, me tiene envuelto
+> Un perfume caro, baby, y un flow resuelto
+> This late night drive me lleva directo a tu piel
+> En el rooftop de Madrid probando tu miel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
